@@ -1,4 +1,4 @@
-## First year grad student at IIT Guwahati
+## First year grad student at IIT Guwahati with [Dr. Priyadarshi Satpati](https://www.iitg.ac.in/psatpati/people/index.html)
 
 ## Plying trade in Computational Biophysics and religiously learning the tools of the trade such as [GROMACS, Groningen MAchine for Chemical Simulation](http://www.gromacs.org/), [NAMD,Nanoscale Molecular Dynamics](https://www.ks.uiuc.edu/Research/namd/), [VMD,Visual Molecular Dynamics](https://www.ks.uiuc.edu/Research/vmd/) , [PyMOL](https://pymol.org/2/).
 
